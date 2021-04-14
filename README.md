@@ -32,4 +32,4 @@ $
 $ FORK from git
 $ 
 ```
-![Algorithm schema](decoratorGraph.png)
+![Algorithm schema](factoryGraph.png)
