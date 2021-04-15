@@ -1,5 +1,5 @@
-## Design pattern: Factory
-Factory pattern is a design pattern that allows
+## Design pattern: Factory Method
+Factory Method pattern is a design pattern that allows
 to create objects, but what is important, subclases 
 decide how this object 'll be created and looks like.
 Design Pattern Factory delegates responsibility for 
